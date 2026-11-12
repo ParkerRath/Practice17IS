@@ -30,7 +30,12 @@
 
 <img width="2025" height="983" alt="изображение" src="https://github.com/user-attachments/assets/e312c6c8-9dae-41e5-aed5-90a69fd166ba" />  
 
-<img width="2014" height="997" alt="изображение" src="https://github.com/user-attachments/assets/a671ddcf-001c-4085-87c7-23386dde8b65" />
+<img width="2014" height="997" alt="изображение" src="https://github.com/user-attachments/assets/a671ddcf-001c-4085-87c7-23386dde8b65" />  
+
+### Вывод:  
+
+### Рекомендации по исправлению:  
+
 
 
 
