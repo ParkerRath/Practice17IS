@@ -22,6 +22,8 @@
 Отключить verbose-ошибки в production  
 
 # Тестирование сайта наплывом пользователей через Postman:  
+## Изображена настройка запросов, а так же отчеты по ошибкам и статусам запросов:  
+
 
 
 <img width="2009" height="978" alt="изображение" src="https://github.com/user-attachments/assets/991f40be-2071-4beb-8788-c4d4af61fb7b" />  
